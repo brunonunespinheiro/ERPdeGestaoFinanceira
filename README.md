@@ -6,6 +6,7 @@ Este é um **ERP de Gestão Financeira** desenvolvido com **Python** e **Streaml
 
 - **Login Seguro**:
   - Acesso restrito com autenticação por e-mail e senha.
+  - Use para fazer login: 20242025" senha: 123
 
 - **Dashboard Financeiro**:
   - Visualização consolidada de receitas, despesas e saldo.
